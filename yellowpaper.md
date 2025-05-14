@@ -78,6 +78,16 @@ _At what point is a play record persisted to chain?_
 
 _If it walks and talks like an audius node, it must be an audius node._
 
+### Core Module
+
+### Storage Module
+
+### System Module
+
+### ETL Module
+
+### ETH Module
+
 ## HTTP Routes
 
 _The protocol spec may include a few http specific routes. Signed streaming url for those with disk storage. Simple GET routes for k8s support. CometBFT jsonRPC routes for state sync. etc_
