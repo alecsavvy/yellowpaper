@@ -1,8 +1,5 @@
----
-title: Audius Protocol Yellow Paper
-author: [Your Name]
-date: 2025-XX-XX
----
+# Audius Protocol Yellow Paper
+Author: Alec Savoy
 
 # Abstract
 
