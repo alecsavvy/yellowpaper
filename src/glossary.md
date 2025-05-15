@@ -16,11 +16,26 @@ A consortium of leading media companies, music licensing organisations, digital 
 
 ### audiusd
 
-The premiere implementation of the Open Audio Protocol, written in golang.
+The flagship implementation of the Open Audio Protocol, written in golang.
 
-### Audius Mainnet
-**Aliases:** Audius Network, Production, Audius App
+### Audius
+**Aliases:** Mainnet, Audius Network, Production, App, L1
 
 The live network built atop audiusd, used as the primary reference point throughout this yellow paper.
+
+### Proof of Work
+**Aliases:** POW
+
+The recording and verification that a validator has been alive and supporting the network.
+
+### Proof of Storage
+**Aliases:** POS
+
+The recording and verification that a validator has been storing files and can stream them on demand.
+
+### Proof of Work and Storage
+**Aliases:** POWS
+
+All the Proof of {blank} systems rolled into one.
 
 ---
