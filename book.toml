@@ -6,7 +6,8 @@ language = "en"
 text-direction = "ltr"
 
 [output.html]
-default-theme = "auto"
+default-theme = "audius-light"
+preferred-dark-theme = "audius-dark"
 mathjax-support = true
 additional-js = ["./js/mermaid.min.js", "./js/mermaid-init.js"]
 
