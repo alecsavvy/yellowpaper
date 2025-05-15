@@ -1,11 +1,17 @@
 [book]
 title = "Audius Yellowpaper"
-author = "Alec Savoy"
+authors = ["Alec Savoy"]
+description = "the implementation of the audius mainnet"
+language = "en"
+text-direction = "ltr"
 
 [output.html]
 default-theme = "auto"
 mathjax-support = true
 additional-js = ["./js/mermaid.min.js", "./js/mermaid-init.js"]
+
+[output.html.search]
+enable = true
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
